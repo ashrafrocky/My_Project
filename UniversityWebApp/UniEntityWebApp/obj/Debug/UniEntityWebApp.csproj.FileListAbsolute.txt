@@ -1,0 +1,64 @@
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\UniEntityWebApp.dll.config
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\UniEntityWebApp.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\UniEntityWebApp.pdb
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Helpers.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Mvc.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Optimization.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Razor.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\WebGrease.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Helpers.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Mvc.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Optimization.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Razor.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.pdb
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.Migrations.AddStudent.resources
+C:\Users\Trainer 402\Desktop\20.05.18\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.csproj.GenerateResource.Cache
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\UniEntityWebApp.dll.config
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\UniEntityWebApp.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\UniEntityWebApp.pdb
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Razor.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\WebGrease.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.Razor.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.Migrations.AddStudent.resources
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.csproj.GenerateResource.Cache
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.dll
+E:\BITM\Class Lectures video\2018.05.28\UniEntityWebApp\UniEntityWebApp\obj\Debug\UniEntityWebApp.pdb

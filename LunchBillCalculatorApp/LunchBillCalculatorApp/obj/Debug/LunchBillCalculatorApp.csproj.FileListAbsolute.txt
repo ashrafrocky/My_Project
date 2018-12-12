@@ -1,0 +1,21 @@
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.exe.config
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.exe
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.pdb
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.Form1.resources
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.Properties.Resources.resources
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.exe
+C:\Users\Trainer 402\Documents\bitm\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.pdb
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.exe.config
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.exe
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.pdb
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.exe
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.pdb
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.csprojResolveAssemblyReference.cache
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.Form1.resources
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.Properties.Resources.resources
+H:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.csproj.GenerateResource.Cache
+G:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\bin\Debug\LunchBillCalculatorApp.exe.config
+G:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.exe
+G:\exam-21.03.2018\LunchBillCalculatorApp\LunchBillCalculatorApp\obj\Debug\LunchBillCalculatorApp.pdb

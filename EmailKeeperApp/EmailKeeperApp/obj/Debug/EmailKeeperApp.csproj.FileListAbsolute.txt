@@ -1,0 +1,24 @@
+D:\exm\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe.config
+D:\exm\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe
+D:\exm\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.pdb
+D:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csprojResolveAssemblyReference.cache
+D:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Form1.resources
+D:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Properties.Resources.resources
+D:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csproj.GenerateResource.Cache
+D:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.exe
+D:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.pdb
+G:\exm\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe.config
+G:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.exe
+G:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csprojResolveAssemblyReference.cache
+G:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Form1.resources
+G:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Properties.Resources.resources
+G:\exm\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csproj.GenerateResource.Cache
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe.config
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.exe
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csprojResolveAssemblyReference.cache
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Form1.resources
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.Properties.Resources.resources
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.csproj.GenerateResource.Cache
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.exe
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\bin\Debug\EmailKeeperApp.pdb
+E:\BITM\Class Lectures video\Exam\EmailKeeperApp\EmailKeeperApp\obj\Debug\EmailKeeperApp.pdb

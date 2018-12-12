@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 61\2018.03.28\UserDefineTypeWebApp\SalaryCalculatorWebApp\SalaryCalculatorWebApp\bin\SalaryCalculatorWebApp.dll.config
+E:\SEIP.NET\Batch 61\2018.03.28\UserDefineTypeWebApp\SalaryCalculatorWebApp\SalaryCalculatorWebApp\bin\SalaryCalculatorWebApp.dll
+E:\SEIP.NET\Batch 61\2018.03.28\UserDefineTypeWebApp\SalaryCalculatorWebApp\SalaryCalculatorWebApp\bin\SalaryCalculatorWebApp.pdb
+E:\SEIP.NET\Batch 61\2018.03.28\UserDefineTypeWebApp\SalaryCalculatorWebApp\SalaryCalculatorWebApp\obj\Debug\SalaryCalculatorWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 61\2018.03.28\UserDefineTypeWebApp\SalaryCalculatorWebApp\SalaryCalculatorWebApp\obj\Debug\SalaryCalculatorWebApp.dll
+E:\SEIP.NET\Batch 61\2018.03.28\UserDefineTypeWebApp\SalaryCalculatorWebApp\SalaryCalculatorWebApp\obj\Debug\SalaryCalculatorWebApp.pdb

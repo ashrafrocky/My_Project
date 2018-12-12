@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailKeeperApp", "EmailKeeperApp\EmailKeeperApp.csproj", "{494F46B4-DA65-4C10-B0B5-D1CEB12072C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculatorWebApp", "SalaryCalculatorWebApp\SalaryCalculatorWebApp.csproj", "{FAA34491-8560-4311-9BAD-FB657F6F9DFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{494F46B4-DA65-4C10-B0B5-D1CEB12072C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{494F46B4-DA65-4C10-B0B5-D1CEB12072C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{494F46B4-DA65-4C10-B0B5-D1CEB12072C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{494F46B4-DA65-4C10-B0B5-D1CEB12072C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA34491-8560-4311-9BAD-FB657F6F9DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA34491-8560-4311-9BAD-FB657F6F9DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA34491-8560-4311-9BAD-FB657F6F9DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA34491-8560-4311-9BAD-FB657F6F9DFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
